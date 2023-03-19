@@ -1,15 +1,15 @@
-## Hey 👋, I'm [Ann!](https://github.com/anduy1712/)
+## Hey 👋, I'm [An!](https://github.com/anduy1712/)
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Huflit University 🏛.I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 
-- 🔭 I’m currently working on **somewhere no one knows**
+- 🔭 I’m currently working on **HCM, Vietnam**
 
-- 🌱 I’m currently learning **Typescript, React, Angular**
+- 🌱 I’m currently learning **Nodejs, Mongodb, Express**
 
 - 👨‍💻 All of my projects are available at [github.com/anduy1712](github.com/anduy1712)
 
-- 💬 Ask me about **Html, css, javascript, reactjs...**
+- 💬 Ask me about **HTML, CSS, Javascript, Typescript, React, Redux, Tailwinds...**
 
 - 📫 How to reach me **anduy1712@gmail.com**
 
@@ -33,6 +33,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Hufl
   <a href="https://www.facebook.com/an.ptd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://instagram.com/an.ptd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a href="https://www.tiktok.com/@an.ptd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+ <a href="https://duyandev.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </p>
 
 
