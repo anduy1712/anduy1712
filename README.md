@@ -33,7 +33,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Hufl
   <a href="https://www.facebook.com/an.ptd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://instagram.com/an.ptd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a href="https://www.tiktok.com/@an.ptd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
- <a href="https://duyandev.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+ <a href="https://duyandev.netlify.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </p>
 
 
